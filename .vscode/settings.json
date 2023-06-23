@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Section7/python-netfilterqueue/build/lib.linux-x86_64-3.11"
+    ]
+}
